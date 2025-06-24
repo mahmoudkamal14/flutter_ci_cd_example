@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "445576248179",
+    "project_id": "bariq-quran-app",
+    "storage_bucket": "bariq-quran-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:445576248179:android:e48e685332dce8f72ce306",
+        "android_client_info": {
+          "package_name": "com.example.flutter_ci_cd_example"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUvt6IC5AlU5oK-eThqZCJG__lOk5wLZQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
