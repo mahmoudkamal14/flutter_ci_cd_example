@@ -10,7 +10,7 @@ on:
       - main
 
 jobs:
-  build and distribute:
+  build_and_distribute:
     runs-on: ubuntu-latest
 
     # 4.
