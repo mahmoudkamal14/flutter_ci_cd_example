@@ -12,7 +12,7 @@ platform :android do
     app: "1:445576248179:android:e48e685332dce8f72ce306",
     firebase_cli_token: ENV["FIREBASE_CLI_TOKEN"],
     android_artifact_type: "APK",
-    apk_path: "../build/app/outputs/apk/release/app-release.apk",
+    apk_path: "../build/app/outputs/flutter-apk/app-release.apk",
     testers: "mkelsafty1838@gmail.com",
     release_notes: "First Android Version Build for the App"
   )
