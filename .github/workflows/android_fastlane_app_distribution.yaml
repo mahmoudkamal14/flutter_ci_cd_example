@@ -43,9 +43,9 @@ jobs:
       - name: Setup Ruby
       - uses: ruby/setup-ruby@v1
         with:
-        ruby-version: "3.4.4" # Specify the Ruby version you need
-        bundler-cache: true 
-        working-directory: android
+          ruby-version: "3.4.4" # Specify the Ruby version you need
+          bundler-cache: true 
+          working-directory: android
 
       # 6.
       - name: Build and Distribute APK
